@@ -1,7 +1,7 @@
 " Vim syntax file
-" " Language: Dialog Interactive Fiction
-" " Maintainer: Keyhan Vakil
-" " Latest Revision: 27 June 2021
+" Language: Dialog Interactive Fiction
+" Maintainer: Keyhan Vakil
+" Latest Revision: 27 June 2021
 "
 if exists("b:current_syntax")
   finish
